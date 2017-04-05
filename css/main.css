@@ -1,0 +1,11 @@
+/**
+ *
+ * Header: background-color: #eebb44;
+ *
+ */
+
+header{
+  position: fixed;
+  background-color: #eebb44;
+  width: 100%;
+}
